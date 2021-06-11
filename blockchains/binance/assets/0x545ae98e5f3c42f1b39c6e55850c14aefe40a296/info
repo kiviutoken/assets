@@ -1,0 +1,11 @@
+{
+    "name": "Kiviu Token",
+    "website": "http://kiviu.finance",
+    "description": "Kiviu token is a video sharing platform with Binance Smart Chain technology",
+    "explorer": "https://bscscan.com/token/0x545ae98e5f3c42f1b39c6e55850c14aefe40a296",
+    "type": "BEP20",
+    "symbol": "KIV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x545ae98e5f3c42f1b39c6e55850c14aefe40a296"
+}
